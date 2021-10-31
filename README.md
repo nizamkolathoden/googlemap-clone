@@ -3,5 +3,5 @@
 ## It's very esay to develop using mapbox api
 ### clone this repo.
 
-then open the file in 
+then open the file in browser 
  
